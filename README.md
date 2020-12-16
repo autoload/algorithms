@@ -1,2 +1,2 @@
 # algorithm
-## Title
+## Title algorithms
